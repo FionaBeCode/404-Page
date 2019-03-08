@@ -1,3 +1,4 @@
-body { 
-    background-image: url"(1920x1080-4566762-powder-explosion-colorful.jpg)"; 
-    background-size: 100% 100%;}
+.body {
+    background-image: url("https://raw.githubusercontent.com/FionaBeCode/404-Page/master/background.jpg");
+    background-color:  red;
+}
