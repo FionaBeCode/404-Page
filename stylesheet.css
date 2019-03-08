@@ -1,4 +1,46 @@
 .body {
     background-image: url("https://raw.githubusercontent.com/FionaBeCode/404-Page/master/background.jpg");
-    background-color:  red;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+}
+.title{ 
+    text-align: center;
+}
+.message {
+    text-align: center;
+    background: rgb(44, 156, 145, 0.5);
+    width: 550px;
+    position: static; 
+    padding: 25px;
+    margin: 0 auto;
+    box-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    color: turquoise;
+}
+h2 {
+    font-size: 50px;
+    color: rgb(39, 230, 236);
+}
+p {
+    font-size: 35px; 
+    text-align: center;
+    color:rgb(85, 235, 222);
+}
+
+.button{
+    background:    #017d7d;
+    background:    linear-gradient(#017d7d, #00ffff);
+    border:        1px solid #556699;
+    border-radius: 5px;
+    padding:       10px 24px;
+    color:         #3d5cc6;
+    display:       inline-block;
+    font:          normal bold 24px/1 "Vollkorn", serif;
+    text-align:    center;
+    text-shadow:   1px 1px #09f3f3;
 }
