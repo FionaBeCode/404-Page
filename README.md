@@ -6,4 +6,4 @@ https://github.com/becodeorg/GNT-Yu-1.10/blob/master/1.The-Fields/4.HTML-CSS/1.H
 
 ## Link to page
 
-file:///home/fiona/Desktop/BeCode_Projects/404-Page/index.html
+https://fionabecode.github.io/404-Page/
